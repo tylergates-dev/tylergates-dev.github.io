@@ -1,15 +1,15 @@
-# Tyler Gates — IT Systems Administrator
+# Tyler Gates
 
-Personal portfolio and professional presence. Based in RI.
+Director of Engineering Support. Personal portfolio and professional presence. Based in Warwick, RI.
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-nerdyoreo.github.io-32d74b?style=flat-square)](https://nerdyoreo.github.io)
-
----
-
-Built with vanilla HTML and CSS. No frameworks, no build tools, no dependencies beyond Google Fonts.
-
-**Background:** Five years of progressive IT experience spanning MSP, sysadmin, and enterprise environments. Currently focused on security infrastructure, automation, and hybrid Microsoft ecosystems.
+[![Live Site](https://img.shields.io/badge/Live%20Site-tylergates--dev.github.io-32d74b?style=flat-square)](https://tylergates-dev.github.io/)
 
 ---
 
-*© 2026 Tyler Gates — RI*
+Built with vanilla HTML and CSS. No frameworks, no build tools, no third party requests.
+
+**Background:** Nearly a decade in technology, including 3+ years in IT administration across MSP, sysadmin and enterprise roles. Currently focused on security infrastructure, automation and hybrid Microsoft ecosystems.
+
+---
+
+*© 2026 Tyler Gates, Warwick, RI*
